@@ -1,4 +1,3 @@
-"use strict";
 const categoryList = document.querySelector("#categories");
 const categoryItems = categoryList.querySelectorAll("li.item");
 const numberOfCategories = categoryItems.length;
